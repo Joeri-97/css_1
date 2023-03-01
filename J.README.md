@@ -1,4 +1,4 @@
 # css_1
-Hoofdprojecten
+Hoofdprojecten dikzak
 
 https://joeri-97.github.io/css_1/
